@@ -7,8 +7,10 @@
 
 I don't plan on writing any `python code` in this repository
 
-`test def function pandas:
+```
+test def function pandas:
     blah blah blah
-    return all the blahs`
+    return all the blahs
+```
 
-:smile:
+❤️
